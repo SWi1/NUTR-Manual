@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SWi1/SportsNutritionLabManual/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Sports Nutrition Laboratory Manual
+Welcome - This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary Miles and Stephanie Wilson.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Laboratory 1 - Laboratory Safety and Standard Operating Procedures
 
-- Bulleted
-- List
+- [Laboratory 1 Data Sheet](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Laboratory_1_Worksheet.pdf)
 
-1. Numbered
-2. List
+## Laboratory 2 - Exercise Intensity and Substrate Utilization
+ 
+ - [Physical Activity Readiness Questionnaire (PARQ)](http://eparmedx.com/wp-content/uploads/2013/03/January2020PARQPlusFillable.pdf)
+ - [Laboratory 2 Data Sheet](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Laboratory_2_Data_Sheet.pdf)
 
-**Bold** and _Italic_ and `Code` text
+## Laboratory 3 - Carbohydrate Supplementation and Glycemic Responses
+ - [Laboratory 3 Data Sheet](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Laboratory_3_Data_Sheet.pdf)
 
-[Link](url) and ![Image](src)
+## Laboratory 4
+ - Laboratory 4 Data Sheet
+
+## Laboratory 5
+
+## Laboratory 6
+
+## Appendix A
+
+- [Appendix A Data and Graph Example - Excel File](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Appendix%20A%20Graph%20Example.xlsx)
+- [Figure Code - RMD File](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Appendix%20A%20-%20Figure%20A.3%20Code.Rmd)
+
+## Appendix B
+ - No materials
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SWi1/SportsNutritionLabManual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our page? Send us a message and let us know.
