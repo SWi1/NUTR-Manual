@@ -1,8 +1,6 @@
 # Sports Nutrition Laboratory Manual
 Welcome - This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary Miles and Stephanie Wilson.
 
-```markdown
-
 ## Laboratory 1 - Laboratory Safety and Standard Operating Procedures
 
 - [Laboratory 1 Data Sheet](https://github.com/SWi1/SportsNutritionLabManual/blob/master/Laboratory_1_Worksheet.pdf)
@@ -29,8 +27,6 @@ Welcome - This a GitHub repository for laboratory data, materials, and resources
 
 ## Appendix B
  - No materials
-
-```
 
 ### Support or Contact
 
