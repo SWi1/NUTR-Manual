@@ -1,5 +1,3 @@
-![Logo](https://github.com/SWi1/NUTR-Manual/blob/master/NUTR_LAB_MANUAL.png)
-
 Welcome! This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary Miles and Stephanie Wilson. 
 Click the link below to head to the manual website:
  - [Offical Website](https://swi1.github.io/NUTR-Manual/)
