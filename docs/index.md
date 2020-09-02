@@ -1,5 +1,6 @@
-# Sports Nutrition Laboratory Manual
-Welcome - This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary Miles and Stephanie Wilson.
+![ManualCover](https://github.com/SWi1/NUTR-Manual/blob/master/NUTR_LAB_MANUAL.png)
+
+Welcome! This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary Miles and Stephanie Wilson. During implmentation of this manual for the Fall 2020 academic semester at Montana State University, videos were created to accompany several chapters of the laboratory manual to visualize aspects of the class for students who were online. These videos can be accessed for free through [the manual's accompanying YouTube Channel.](https://www.youtube.com/channel/UC6xwHsk9P1mrTnw2S_UO1Jw/)
 
 ## Laboratory 1 - Laboratory Safety and Standard Operating Procedures
 
@@ -28,6 +29,6 @@ Welcome - This a GitHub repository for laboratory data, materials, and resources
 ## Appendix B
  - No materials
 
-### Support or Contact
+### Contact
 
 Having trouble with our page? Send us a message and let us know.
