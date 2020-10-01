@@ -16,7 +16,7 @@ During implmentation of this manual for the Fall 2020 academic semester at Monta
  - [Laboratory 3 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%203/Laboratory_3_Data_Sheet.pdf)
 
 ## Laboratory 4 - Hydration
- - Laboratory 4 Data Sheet
+ - [Laboratory 4 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%204/Laboratory_4_Data_Sheet.pdf)
 
 ## Laboratory 5
  - Laboratory 5 Data Sheet
