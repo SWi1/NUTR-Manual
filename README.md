@@ -1,4 +1,4 @@
-![ManualCover](https://github.com/SWi1/NUTR-Manual/blob/master/NUTR_LAB_MANUAL.png)
+![ManualCover](https://github.com/SWi1/NUTR-Manual/blob/master/NUTR_LAB_MANUAL.PNG)
 
 This is a GitHub repository for an open-source sports nutrition laboratory manual. You'll find on this page: laboratory data, materials, and resources. Click the link below to head to the manual website:
  - [Offical Website](https://swi1.github.io/NUTR-Manual/)
