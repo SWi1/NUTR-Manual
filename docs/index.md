@@ -5,11 +5,11 @@ During implmentation of this manual for the Fall 2020 academic semester at Monta
 
 ## Laboratory 1 - Laboratory Safety and Standard Operating Procedures
 
-- [Laboratory 1 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%201/Laboratory_1_Worksheet.pdf)
+- [Laboratory 1 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%201/Laboratory_1_Data_Sheet.pdf)
 
 ## Laboratory 2 - Exercise Intensity and Substrate Utilization
  
- - [Physical Activity Readiness Questionnaire (PARQ)](http://eparmedx.com/wp-content/uploads/2013/03/January2020PARQPlusFillable.pdf)
+ - [Physical Activity Readiness Questionnaire (PARQ)](https://www.nasm.org/docs/pdf/parqplus-2020.pdf?sfvrsn=401bf1af_24)
  - [Laboratory 2 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%202/Laboratory_2_Data_Sheet.pdf)
 
 ## Laboratory 3 - Carbohydrate Supplementation and Glycemic Responses
@@ -20,9 +20,6 @@ During implmentation of this manual for the Fall 2020 academic semester at Monta
 
 ## Laboratory 5 - Metabolic Health and Energy Availability
  - [Laboratory 5 Data Sheet](https://github.com/SWi1/NUTR-Manual/blob/master/Laboratory%205/Laboratory_5_Data_Sheet.pdf)
-
-## Laboratory 6
- - Laboratory 6 Data Sheet
  
 ## Appendix A
 - [Appendix A Data and Graph Example - Excel File](https://github.com/SWi1/NUTR-Manual/blob/master/Appendix%20A/Appendix%20A%20Graph%20Example.xlsx)
