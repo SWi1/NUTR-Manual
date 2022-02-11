@@ -1,5 +1,3 @@
-![ManualCover](https://github.com/SWi1/NUTR-Manual/blob/master/NUTR_LAB_MANUAL.PNG)
-
 Welcome! This a GitHub repository for laboratory data, materials, and resources related to the Sports Nutrition Laboratory Manual by Mary P. Miles, Stephanie M.G. Wilson, and Morgan L. Chamberlin. The full manual is available as an open education resource through [this link](https://scholarworks.montana.edu/xmlui/handle/1/16659).
 
 During implmentation of this manual for the Fall 2020 academic semester at Montana State University, videos were created to accompany several chapters of the laboratory manual to visualize aspects of the class for students who were online. These videos can be accessed for free through [the manual's accompanying YouTube Channel.](https://www.youtube.com/channel/UC6xwHsk9P1mrTnw2S_UO1Jw/)
